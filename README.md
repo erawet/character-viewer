@@ -1,5 +1,5 @@
 # CodingChallenge by Don E Wettasinghe
-### Project details
+### Developer details
 - Done by Don Wettasinghe
 - email: erawet@gmail.com
 - Mobile: 7573390854
