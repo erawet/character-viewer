@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4E7CFDA-8F39-4015-8E9D-10BC7BF2D133"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAA864C7-0012-4E03-BF89-3E74D7D82BB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCSComcastCodingChallenge/View Controllers/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "configureView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BAA864C7-0012-4E03-BF89-3E74D7D82BB5 - cd2b59b0b524992b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SimpsonsCharacterViewer.DetailsViewController.configureView() -&gt; ()"
+                  moduleName = "SimpsonsCharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mnaeem.paracha/Documents/Personal/untitled%20folder%202/demos/selectable/TCSComcastCodingChallenge-30e4e4c61f6251f9476374b3a851766879752c3b/TCSComcastCodingChallenge/View%20Controllers/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "BAA864C7-0012-4E03-BF89-3E74D7D82BB5 - f74481004ad784e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in SimpsonsCharacterViewer.DetailsViewController.configureView() -&gt; ()"
+                  moduleName = "SimpsonsCharacterViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mnaeem.paracha/Documents/Personal/untitled%20folder%202/demos/selectable/TCSComcastCodingChallenge-30e4e4c61f6251f9476374b3a851766879752c3b/TCSComcastCodingChallenge/View%20Controllers/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8432A70-AB3A-48E3-864C-5CFE56FF336B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCSComcastCodingChallenge/View Models/CharacterDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getCharacterImg(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E698E3A-66FF-49A9-AFF8-3FA22133CF53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCSComcastCodingChallenge/Extensions &amp; Helpers/Helpers/APIHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "APIHelper"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

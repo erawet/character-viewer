@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="CharacterCell" rowHeight="50" id="7Yh-Qw-vcg" customClass="CharacterTVCell" customModule="SimpsonsCharacterViewer" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="50"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="7Yh-Qw-vcg" id="suX-TP-z0I">
+                <rect key="frame" x="0.0" y="0.0" width="376" height="49.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hDp-Lk-bMG">
+                        <rect key="frame" x="20" y="10" width="336" height="29.5"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="hDp-Lk-bMG" firstAttribute="top" secondItem="suX-TP-z0I" secondAttribute="top" constant="10" id="3wQ-sb-m9Z"/>
+                    <constraint firstAttribute="trailing" secondItem="hDp-Lk-bMG" secondAttribute="trailing" constant="20" id="A6B-xF-z73"/>
+                    <constraint firstItem="hDp-Lk-bMG" firstAttribute="leading" secondItem="suX-TP-z0I" secondAttribute="leading" constant="20" id="HIo-hj-iA9"/>
+                    <constraint firstAttribute="bottom" secondItem="hDp-Lk-bMG" secondAttribute="bottom" constant="10" id="agb-iO-KpD"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="characterNameLbl" destination="hDp-Lk-bMG" id="Mze-vL-Kyv"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+</document>
