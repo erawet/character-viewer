@@ -29,15 +29,10 @@
 - [x] Follow MVVM Design Pattern
 - [x] Strong network framework
 
-### Personal Checklist
-
-- [x] Cleanup `APIHelper.swift` file
-- [x] Document Code
-- [x] Reorganize Some code
 
 ### How to use the app
 
-In order to test the app, project files need to be opened in Xcode 10.3<br/>
+In order to test the app, project files need to be opened in Xcode<br/>
 After the project has been opened successfully in Xcode click on the Schemes tab and select either `SimpsonsCharacterViewer` or `TheWireCharacterViewer`. 
 You can now run the application on a device of your choice. Depending on which scheme you chose the API will change between "http://api.duckduckgo.com/?q=simpsons+characters&format=json" & "http://api.duckduckgo.com/?q=the+wire+characters&format=json". 
 
