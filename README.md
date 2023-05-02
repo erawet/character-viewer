@@ -1,4 +1,4 @@
-# CodingChallenge by Don E Wettasinghe
+# Character-Viewer by Don E Wettasinghe
 ### Developer details
 - Done by Don Wettasinghe
 - email: erawet@gmail.com
