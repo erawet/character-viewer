@@ -2,7 +2,7 @@
 ### Developer details
 - Done by Don Wettasinghe
 - email: erawet@gmail.com
-- Mobile: 7573390854
+
 ### Features
 
 - Lists All of the Character Names in a `UITableView` on the `MainViewController`.
@@ -15,7 +15,7 @@
 
 -  I avoided implementing any Dependencies. Because it makes you easier to run the project.  
 
-### Challenge Requirements Checklist
+### Requirements Checklist
 
 - [x] Comprised of two parts, a list and a detail.
 - [x] On Phones, the list and detail should be separate screens, on Tablets, list and detail should appear on the same screen
