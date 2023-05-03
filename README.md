@@ -1,6 +1,6 @@
 # Character-Viewer by Don E Wettasinghe
 ### Developer details
-- Done by Don Wettasinghe
+- Developer: Don E Wettasinghe
 - email: erawet@gmail.com
 
 ### Features
